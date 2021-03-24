@@ -1,0 +1,22 @@
+\monikaszucs.github.io
+npx create-react-app my-app
+
+
+/**
+npm start
+  starst the development server
+  
+npm run build
+  Bundles the app into static files for production
+  
+npm test
+  Starts teh test runner
+  
+npm run eject
+  Removes this tool and copies build dependencies, configuration files and scripts into the app directory. If you do this, you can't go back! 
+  
+ 
+ 
+cd my-app
+
+**/
