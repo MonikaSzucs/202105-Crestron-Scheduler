@@ -29,4 +29,10 @@ cd my-app
 **/
 
 
+1. Go into Node.js commany prompt
+type: git help
+this will see if Node.js is running
+
+
+
 
