@@ -1,3 +1,10 @@
+install git
+https://git-scm.com/download/win
+
+
+install node
+https://nodejs.org/en/
+
 \monikaszucs.github.io
 npx create-react-app my-app
 
@@ -20,3 +27,6 @@ npm run eject
 cd my-app
 
 **/
+
+
+
