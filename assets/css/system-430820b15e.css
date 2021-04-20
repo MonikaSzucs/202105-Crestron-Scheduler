@@ -18279,8 +18279,8 @@ screen and (-ms-high-contrast:none) {
 	padding-right: .833vmax;
 	padding-bottom: .156vmax;
 	justify-content: space-between;
-	min-width: 30%;
-	max-width: 30%
+	min-width: 20%;
+	max-width: 20%
 }
 
 .asui asui-schedule-table .schedule-header-block .schedule-items-header .schedule-filter {
