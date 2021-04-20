@@ -44716,7 +44716,7 @@ screen and (orientation:landscape) and (max-device-width:1024px) {
 		font-size: .6em
 	}
 	.header {
-		height: 8vh
+		height: 0vh
 	}
 	.hide-header {
 		margin-top: calc(-16vh + 2.083vmax)
