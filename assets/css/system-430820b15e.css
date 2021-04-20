@@ -18782,7 +18782,7 @@ screen and (-ms-high-contrast:none) {
 
 /* Spacing inside calendar booked showing title and time */
 .asui asui-schedule-table .schedule-list-block .schedule-timeline-block .asui-schedule-table-item-timeline .timeline-schedule .schedule-container {
-	padding: .300vmax;
+	padding: .200vmax;
 	display: flex;
 	flex: 1;
 	max-width: 100%;
