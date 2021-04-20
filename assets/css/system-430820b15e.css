@@ -18739,8 +18739,8 @@ screen and (-ms-high-contrast:none) {
 .asui asui-schedule-table .schedule-list-block .schedule-timeline-block {
 	overflow-x: auto;
 	overflow-y: visible;
-	min-width: 70%;
-	max-width: 70%;
+	min-width: 80%;
+	max-width: 80%;
 	background-color: transparent!important;
 	scrollbar-width: none
 }
