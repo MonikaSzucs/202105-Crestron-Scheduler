@@ -18649,8 +18649,8 @@ screen and (-ms-high-contrast:none) {
 }
 
 .asui asui-schedule-table .schedule-list-block .schedule-items-block {
-	min-width: 30%;
-	max-width: 30%;
+	min-width: 20%;
+	max-width: 20%;
 	background-color: transparent!important
 }
 
@@ -44672,8 +44672,8 @@ screen and (orientation:landscape) and (max-device-width:1024px) {
 	}
 	.schedule-items-block,
 	.schedule-items-header {
-		min-width: 40%!important;
-		max-width: 40%!important
+		min-width: 30%!important;
+		max-width: 30%!important
 	}
 	.schedule-timeline-block {
 		min-width: 60%!important;
