@@ -18417,7 +18417,7 @@ screen and (-ms-high-contrast:none) {
 }
 
 .asui asui-schedule-table .schedule-item-info-block asui-schedule-item-info .item-info-details .item-info-current-meeting .item-info-meetings-schedule-name {
-	font-size: 200%;
+	font-size: 125%;
 	font-weight: 700;
 	text-overflow: ellipsis;
 	overflow: hidden;
@@ -18529,7 +18529,7 @@ screen and (-ms-high-contrast:none) {
 }
 
 .asui asui-schedule-table .schedule-item-info-block asui-schedule-item-info .item-info-meetings .item-info-meetings-schedule-list .item-info-meetings-schedule .item-info-meetings-schedule-name {
-	font-size: 200%;
+	font-size: 125%;
 	font-weight: 700;
 	text-overflow: "…";
 	overflow: hidden;
@@ -18787,7 +18787,7 @@ screen and (-ms-high-contrast:none) {
 }
 
 .asui asui-schedule-table .schedule-list-block .schedule-timeline-block .asui-schedule-table-item-timeline .timeline-schedule .schedule-container .schedule-name {
-	font-size: 200%;
+	font-size: 125%;
 	text-overflow: "…";
 	overflow: hidden;
 	white-space: nowrap;
@@ -18804,7 +18804,7 @@ screen and (-ms-high-contrast:none) {
 
 .asui asui-schedule-table .schedule-list-block .schedule-timeline-block .asui-schedule-table-item-timeline .timeline-schedule .schedule-container .schedule-organizer,
 .asui asui-schedule-table .schedule-list-block .schedule-timeline-block .asui-schedule-table-item-timeline .timeline-schedule .schedule-container .schedule-time {
-	font-size: 160%;
+	font-size: 110%;
 	text-overflow: "…";
 	overflow: hidden;
 	white-space: nowrap;
