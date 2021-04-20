@@ -18239,8 +18239,8 @@ screen and (-ms-high-contrast:none) {
 }
 
 .asui asui-schedule-table .schedule-row-height {
-	min-height: 6.25vmax;
-	max-height: 6.25vmax
+	min-height: 3.25vmax;
+	max-height: 3.25vmax
 }
 
 .asui asui-schedule-table .schedule-slot-width {
