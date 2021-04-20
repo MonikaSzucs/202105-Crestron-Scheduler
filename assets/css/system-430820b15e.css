@@ -44676,8 +44676,8 @@ screen and (orientation:landscape) and (max-device-width:1024px) {
 		max-width: 30%!important
 	}
 	.schedule-timeline-block {
-		min-width: 50%!important;
-		max-width: 50%!important
+		min-width: 30%!important;
+		max-width: 30%!important
 	}
 }
 
