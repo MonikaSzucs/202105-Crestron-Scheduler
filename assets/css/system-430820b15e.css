@@ -18240,8 +18240,8 @@ screen and (-ms-high-contrast:none) {
 
 /* Sidebar height adjustment */
 .asui asui-schedule-table .schedule-row-height {
-	min-height: 2.87vmax;
-	max-height: 2.87vmax
+	min-height: 2.86vmax;
+	max-height: 2.86vmax
 }
 
 .asui asui-schedule-table .schedule-slot-width {
@@ -18699,7 +18699,7 @@ screen and (-ms-high-contrast:none) {
 
 /* Sidebar height adjustment */
 .asui asui-schedule-table .schedule-list-block .schedule-items-block .asui-schedule-table-item .schedule-item-container .schedule-item-name .schedule-item-name-label {
-	max-height: 2.87vmax;
+	max-height: 2.86vmax;
 	-webkit-line-clamp: 2;
 	-webkit-box-orient: vertical;
 	overflow: hidden;
