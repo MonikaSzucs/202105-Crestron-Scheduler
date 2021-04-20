@@ -18418,7 +18418,7 @@ screen and (-ms-high-contrast:none) {
 
 .asui asui-schedule-table .schedule-item-info-block asui-schedule-item-info .item-info-details .item-info-current-meeting .item-info-meetings-schedule-name {
 	font-size: 125%;
-	font-weight: 700;
+	font-weight: 900;
 	text-overflow: ellipsis;
 	overflow: hidden;
 	white-space: nowrap;
@@ -18530,7 +18530,7 @@ screen and (-ms-high-contrast:none) {
 
 .asui asui-schedule-table .schedule-item-info-block asui-schedule-item-info .item-info-meetings .item-info-meetings-schedule-list .item-info-meetings-schedule .item-info-meetings-schedule-name {
 	font-size: 125%;
-	font-weight: 700;
+	font-weight: 900;
 	text-overflow: "…";
 	overflow: hidden;
 	white-space: nowrap;
@@ -18793,7 +18793,7 @@ screen and (-ms-high-contrast:none) {
 	white-space: nowrap;
 	word-break: break-word;
 	pointer-events: none;
-	font-weight: 500
+	font-weight: 900
 }
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
@@ -18840,7 +18840,7 @@ screen and (-ms-high-contrast:none) {
 	white-space: nowrap;
 	word-break: break-word;
 	pointer-events: none;
-	font-weight: 500;
+	font-weight: 900;
 	margin-left: 1.5vmax
 }
 
