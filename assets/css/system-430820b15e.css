@@ -18739,6 +18739,7 @@ screen and (-ms-high-contrast:none) {
 	font-size: 220%
 }
 
+/* Center area adjust */
 .asui asui-schedule-table .schedule-list-block .schedule-timeline-block {
 	overflow-x: auto;
 	overflow-y: visible;
