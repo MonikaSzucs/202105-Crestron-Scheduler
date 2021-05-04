@@ -40,7 +40,14 @@
   line-height: 1.2;
 }
 
+/* Available and Reserved Background Images */
 .screensaver__container--available{
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-image: url("../images/reportex-background.png") !important;
+}
+
+.screensaver__container--reserved{
   background-position: center center;
   background-repeat: no-repeat;
   background-image: url("../images/reportex-background.png") !important;
@@ -72,12 +79,12 @@
 
 /* Border color screensaver layout when reserved */
 .screensaver__container--reserved {
-  border-color: rgba(247, 202, 24, 0.8);
+  border-color: rgba(255, 255, 255, 0.5);
 }
 
 /* Border color screensaver layout when available */
 .screensaver__container--available {
-  border-color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.5);
 }
 
 
