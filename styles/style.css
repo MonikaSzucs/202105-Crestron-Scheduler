@@ -158,6 +158,7 @@
   text-transform: uppercase;
   display: block;
   background-color: red;
+  display: none;
 }
 
 /* Color for 'reserved label' and 'countdown number' if reserved */
@@ -226,6 +227,7 @@
   letter-spacing: 1px;
   padding: 1.1666666667vh 2.1666666667vh;
   background-color: grey;
+  display: none;
 }
 
 /* Room 'Walk up meeting' if reserved */
@@ -273,7 +275,7 @@
 
   width: 100%;
   height: 100%;
-  background-color: yellow;
+  background-color: grey;
 }
 
 .room__container{
