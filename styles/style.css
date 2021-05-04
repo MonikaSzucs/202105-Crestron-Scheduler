@@ -308,3 +308,7 @@
 menu {
   display: none !important;
 }
+
+.menu--active {
+  display: none !important;
+}
