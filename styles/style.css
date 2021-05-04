@@ -17,13 +17,13 @@
 /* Color for available label */
 .color__main-color-3 {
   color: #3cf799;
-  display: none;
+
 }
 
 /* Color for reserved label */
 .color__main-color-2 {
   color: #ff2c55;
-  display: none;
+
 }
 
 /* Reserved details section */
@@ -45,7 +45,6 @@
   line-height: 1.2;
   text-align: center;
   color: #FFC0CB;
-  display: none;
 }
 
 /* Available and Reserved Background Images */
