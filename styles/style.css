@@ -296,6 +296,7 @@
   display: none;
 }
 
+/* Hide Timeline area */
 .timeline__content{
   display: none;
 }
