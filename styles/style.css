@@ -33,6 +33,7 @@
   font-size: 6vh;
   font-weight: 500;
   line-height: 1.2;
+  background-color: white;
 }
 
 /* Available details section */
@@ -184,7 +185,6 @@
 .room__container--available .room__container__status__countdown__hours__number,
 .room__container--available .room__container__status__countdown__minutes__number {
   color: #3cf799;
-  display: none;
 }
 
 /* Color for 'minutes label' and 'hours label' if available */
@@ -226,7 +226,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   padding: 1.1666666667vh 2.1666666667vh;
-  display: none;
+  background-color: grey;
 }
 
 /* Room 'Walk up meeting' if reserved */
