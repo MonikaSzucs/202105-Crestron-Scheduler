@@ -164,7 +164,7 @@
 .room__container--reserved .room__container__status__countdown__hours__number,
 .room__container--reserved .room__container__status__countdown__minutes__number {
   color: #ff2c55;
-  display: none;
+  
 }
 
 /* Color for 'minutes label' and 'hours label' if reserved */
