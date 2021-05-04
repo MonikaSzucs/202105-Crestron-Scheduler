@@ -144,6 +144,7 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   display: block;
+  background-color: beige;
 }
 
 /* 'For next' label */
@@ -158,6 +159,7 @@
   text-transform: uppercase;
   display: block;
   background-color: red;
+  display: none;
 }
 
 /* Color for 'reserved label' and 'countdown number' if reserved */
@@ -165,7 +167,7 @@
 .room__container--reserved .room__container__status__countdown__hours__number,
 .room__container--reserved .room__container__status__countdown__minutes__number {
   color: #ff2c55;
-  
+  display: none;
 }
 
 /* Color for 'minutes label' and 'hours label' if reserved */
