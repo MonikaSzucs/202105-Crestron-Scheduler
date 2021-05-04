@@ -295,3 +295,7 @@
   background-color: #ff2c55;
   display: none;
 }
+
+.timeline__content{
+  display: none;
+}
