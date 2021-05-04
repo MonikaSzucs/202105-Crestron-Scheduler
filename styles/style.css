@@ -115,6 +115,7 @@
   text-transform: capitalize;
   line-height: 1.2;
   margin-top: -.25em;
+  background-color: blue;
 }
 
 /* Current time and date */
@@ -268,6 +269,10 @@
 
 .room__container{
   background-color: orange;
+}
+
+.room__container__room-details{
+  background-color: purple;
 }
 
 
