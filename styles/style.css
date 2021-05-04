@@ -144,7 +144,6 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   display: block;
-  background-color: beige;
 }
 
 /* 'For next' label */
@@ -159,7 +158,6 @@
   text-transform: uppercase;
   display: block;
   background-color: red;
-  display: none;
 }
 
 /* Color for 'reserved label' and 'countdown number' if reserved */
@@ -167,7 +165,7 @@
 .room__container--reserved .room__container__status__countdown__hours__number,
 .room__container--reserved .room__container__status__countdown__minutes__number {
   color: #ff2c55;
-  display: none;
+  
 }
 
 /* Color for 'minutes label' and 'hours label' if reserved */
@@ -227,7 +225,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   padding: 1.1666666667vh 2.1666666667vh;
-  display: none;
+  background-color: grey;
 }
 
 /* Room 'Walk up meeting' if reserved */
@@ -275,7 +273,7 @@
 
   width: 100%;
   height: 100%;
-  background-color: grey;
+  background-color: yellow;
 }
 
 .room__container{
