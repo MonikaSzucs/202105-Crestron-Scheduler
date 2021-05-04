@@ -300,3 +300,11 @@
 .timeline{
   display: none;
 }
+
+
+
+
+/*************** Menu *************************/
+menu {
+  display: none !important;
+}
