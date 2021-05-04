@@ -176,7 +176,6 @@
   -webkit-border-image: -webkit-linear-gradient(top, #ff2c55 0, #f5317b 100%);
   border-image: linear-gradient(to bottom, #ff2c55 0, #f5317b 100%);
   border-image-slice: 1;
-  display: none;
 }
 
 /* Color for 'available label' and 'countdown number' if available */
@@ -195,7 +194,7 @@
   -webkit-border-image: -webkit-linear-gradient(top, #3cf799 0, #57f171 100%);
   border-image: linear-gradient(to bottom, #3cf799 0, #57f171 100%);
   border-image-slice: 1;
-  display: none;
+
 }
 
 /* Room countdown number */
