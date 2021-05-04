@@ -230,6 +230,7 @@
   display: none;
 }
 
+/* Aaa vs Bbb Title here */
 /* Room 'Walk up meeting' if reserved */
 .room__container__status__details__subject {
   font-family: Crestron, sans-serif;
@@ -254,6 +255,7 @@
   font-size: 4vh;
   font-weight: 400;
   margin-top: 3vh;
+  color:cyan;
 }
 
 /* Room 'Meeting date' if reserved */
@@ -264,6 +266,7 @@
   font-size: 4vh;
   font-weight: 400;
   margin-top: 2vh;
+  color: green;
 }
 
 .room__container__status{
