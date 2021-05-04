@@ -1,4 +1,6 @@
 /* https://monikaszucs.github.io/styles/style.css  */
+
+
 /*************** Screensaver section ****************/
 /* Room name */
 .screensaver__container__room-details__name {
@@ -64,13 +66,18 @@
 
 /* Border color screensaver layout when reserved */
 .screensaver__container--reserved {
-  border-color: rgba(255, 44, 85, 0.8);
+  border-color: rgba(247, 202, 24, 0.8);
 }
 
 /* Border color screensaver layout when available */
 .screensaver__container--available {
   border-color: #3cf799;
 }
+
+
+
+
+
 
 /****************** Horizontal Room section *********************/
 /* Room name */
@@ -220,6 +227,12 @@
   font-weight: 400;
   margin-top: 2vh;
 }
+
+
+
+
+
+
 
 /*************** Timeline *************************/
 /* Background and border color for the timeline events created in the past */
