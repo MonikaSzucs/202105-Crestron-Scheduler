@@ -74,6 +74,11 @@
   font-weight: 400;
 }
 
+/* Time screensaver */
+.screensaver__container__current-time{
+  display: none;
+}
+
 /* Logo screensaver */
 .screensaver__container__logo__img {
   height: 9vh;
@@ -143,6 +148,7 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   display: block;
+  background-color: red;
 }
 
 /* Color for 'reserved label' and 'countdown number' if reserved */
@@ -196,6 +202,7 @@
   margin-top: 7vh;
   text-align: center;
   position: relative;
+  display: none;
 }
 
 /* Room label under countdown number */
@@ -211,6 +218,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   padding: 1.1666666667vh 2.1666666667vh;
+  display: none;
 }
 
 /* Room 'Walk up meeting' if reserved */
@@ -246,7 +254,7 @@
   font-size: 4vh;
   font-weight: 400;
   margin-top: 2vh;
-  background-color: red;
+  
 }
 
 
