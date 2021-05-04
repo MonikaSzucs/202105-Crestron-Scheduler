@@ -297,6 +297,6 @@
 }
 
 /* Hide Timeline area */
-.timeline__content{
+.timeline{
   display: none;
 }
