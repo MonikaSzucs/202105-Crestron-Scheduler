@@ -117,6 +117,7 @@
   line-height: 1.2;
   margin-top: -.25em;
   background-color: blue;
+  display: none;
 }
 
 /* Current time and date */
