@@ -40,6 +40,12 @@
   line-height: 1.2;
 }
 
+.screensaver__container--available{
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-image: url("../images/reportex-background.png") !important;
+}
+
 /* Date screensaver */
 .screensaver__container__current-time__date {
   font-family: Crestron, sans-serif;
