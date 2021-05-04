@@ -305,10 +305,14 @@
 
 
 /*************** Menu *************************/
-menu {
+.menu {
   display: none !important;
 }
 
 .menu--active {
+  display: none !important;
+}
+
+.menu__icon--active {
   display: none !important;
 }
