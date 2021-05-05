@@ -36,6 +36,10 @@
   color: purple;
 }
 
+.screensaver__container__status__details__subject{
+  color: white !important;
+}
+
 /* Available details section */
 .screensaver__container__available__content {
   font-family: Crestron, sans-serif;
