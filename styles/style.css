@@ -28,12 +28,19 @@
 
 /* Reserved details section */
 .screensaver__container__reserved__content {
-  font-family: Crestron, sans-serif;
+  font-family: Calibri;
   font-style: normal;
   font-size: 6vh;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1.2;
+  font-variant: small-caps;
   color: purple;
+
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .screensaver__container__reserved__content--subject{
