@@ -35,20 +35,19 @@
   line-height: 1.2;
   font-variant: small-caps;
   color: purple;
+  background-color:white;
 }
 
 .screensaver__container__reserved{
 
 }
 
-.screensaver__container__status{
-  display: none;
+.screensaver__container__status--reserved{
+  background-color:chocolate
 }
 
-
-
-.screensaver__container__reserved__content--subject{
-  color: white !important;
+.screensaver__container__reserved__content--reserved{
+ background-color:pink;
 }
 
 /* Available details section */
