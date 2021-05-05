@@ -75,7 +75,12 @@
 .screensaver__container--reserved{
   background-position: center center;
   background-repeat: no-repeat;
+  Background-color:yellow;
+  
+  /* 
   background-image: url("../images/reportex-background.png") !important;
+  */
+
 
   /*
   position: fixed;
@@ -89,8 +94,6 @@
   height: 100%;
   background-color: grey;
   */
-
-
 }
 
 /* Date screensaver */
