@@ -75,11 +75,7 @@
 .screensaver__container--reserved{
   background-position: center center;
   background-repeat: no-repeat;
-  Background-color:yellow;
-  
-  /* 
   background-image: url("../images/reportex-background.png") !important;
-  */
 
 
   /*
@@ -103,6 +99,7 @@
   line-height: .75em;
   font-size: 4.3333333333vh;
   font-weight: 400;
+  display: none;
 }
 
 /* Time screensaver */
@@ -113,6 +110,7 @@
   line-height: .75em;
   font-size: 13vh;
   font-weight: 400;
+  display: none;
 }
 
 /* Time screensaver */
@@ -124,6 +122,7 @@
 /* Logo screensaver */
 .screensaver__container__logo__img {
   height: 9vh;
+  display: none;
 }
 
 /* Border color screensaver layout when reserved */
