@@ -36,12 +36,6 @@
   font-variant: small-caps;
   color: purple;
 
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background-color: grey;
 }
 
 .screensaver__container__reserved__content--subject{
