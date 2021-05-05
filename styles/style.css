@@ -36,14 +36,14 @@
   font-variant: small-caps;
   color: purple;
   background-color:white;
-  
+
   position: fixed;
   margin:0;
   padding:0;
 }
 
-.screensaver__container__reserved{
-
+.screensaver__container__content{
+  background-color: green;
 }
 
 .screensaver__container__status--reserved{
