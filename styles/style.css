@@ -185,6 +185,7 @@
 .room__container--available .room__container__status__countdown__hours__number,
 .room__container--available .room__container__status__countdown__minutes__number {
   color: #3cf799;
+  display: none;
 }
 
 /* Color for 'minutes label' and 'hours label' if available */
@@ -196,7 +197,7 @@
   -webkit-border-image: -webkit-linear-gradient(top, #3cf799 0, #57f171 100%);
   border-image: linear-gradient(to bottom, #3cf799 0, #57f171 100%);
   border-image-slice: 1;
-
+  display: none;
 }
 
 /* Room countdown number */
