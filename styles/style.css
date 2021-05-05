@@ -246,8 +246,9 @@
   text-overflow: ellipsis;
   overflow: hidden;
   width: 133.333333333vh;
-  line-height: 1.2;
   */
+  
+  line-height: 1.2;
   color: white;
 
   margin: 0;
