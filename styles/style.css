@@ -237,7 +237,7 @@
   font-family: Crestron, sans-serif;
   font-style: normal;
   line-height: .75em;
-  font-size: 6vh;
+  font-size: 12vh;
   font-weight: 400;
   margin: 7vh auto 0;
   white-space: nowrap;
@@ -245,7 +245,7 @@
   overflow: hidden;
   width: 133.333333333vh;
   line-height: 1.2;
-  color:chocolate;
+  color: white;
 }
 
 /* Room 'Walk up organizer' if reserved */
