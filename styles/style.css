@@ -11,7 +11,7 @@
   line-height: 1.5em;
   width: 133.333333333vh;
   background-color: red;
-
+  display: none;
 }
 
 /* Color for available label */
@@ -82,6 +82,7 @@
 /* Time screensaver */
 .screensaver__container__current-time{
   background-color: pink;
+  display: none;
 }
 
 /* Logo screensaver */
