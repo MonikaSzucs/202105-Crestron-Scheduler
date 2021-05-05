@@ -30,16 +30,16 @@
 .screensaver__container__reserved__content {
   font-family: Calibri;
   font-style: normal;
-  font-size: 6vh;
+  font-size: 12vh;
   font-weight: 700;
   line-height: 1.2;
   font-variant: small-caps;
   color: purple;
   background-color:white;
-
-  position: fixed;
-  margin:0;
-  padding:0;
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
 }
 
 .screensaver__container__content{
