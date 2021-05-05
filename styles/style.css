@@ -36,7 +36,10 @@
   font-variant: small-caps;
   color: purple;
   background-color:white;
-  width: auto;
+  
+  position: fixed;
+  margin:0;
+  padding:0;
 }
 
 .screensaver__container__reserved{
