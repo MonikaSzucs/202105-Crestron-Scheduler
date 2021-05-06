@@ -62,19 +62,9 @@
 .screensaver__container__available__spacer,
 .screensaver__container__available__date-end {
   background-color: darkgoldenrod;
-  display: none;
+  display: none !important;
 }
 
-.screensaver__container__reserved__date{
-  background-color: yellow !important;
-  display:none;
-}
-
-.screensaver__container__reserved__content .screensaver__container__reserved__content--second .color__theme-color-2{
-  background-color: firebrick;
-
-
-}
 
 
 
