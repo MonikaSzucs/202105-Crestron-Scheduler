@@ -66,10 +66,19 @@
 }
 
 
+.screensaver__container__current-time__date{
+  display: none;
+}
 
 
+.screensaver__container__current-time__time,
+.screensaver__container__current-time__date{
+  display: none;
+}
 
-
+.screensaver__container__time-date{
+  display: none;
+}
 
 /* Available details section */
 .screensaver__container__available__content {
