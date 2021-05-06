@@ -168,15 +168,14 @@
 
 /* Border color screensaver layout when reserved */
 .screensaver__container--reserved {
-  border-color: rgba(255, 255, 255, 0.5);
-  display: none;
+  border-color: rgba(255, 255, 255, 0);
   
 }
 
 /* Border color screensaver layout when available */
 .screensaver__container--available {
-  border-color: rgba(255, 255, 255, 0.5);
-  display:none;
+  border-color: rgba(255, 255, 255, 0);
+
 }
 
 
