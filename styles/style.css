@@ -233,6 +233,11 @@
   border-image-slice: 1;
 }
 
+.room__container--available {
+  display: none;
+  background-color:black;
+}
+
 /* Color for 'available label' and 'countdown number' if available */
 .room__container--available .room__container__status__title__label1,
 .room__container--available .room__container__status__countdown__hours__number,
