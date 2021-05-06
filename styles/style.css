@@ -30,14 +30,13 @@
 .screensaver__container__reserved__content {
   
   font-size: 0px;
-  color: purple;
-  background-color:white;
   
 }
 
 /* Aaa vs Bbbb on Screen Saver Mode */
 .screensaver__container__reserved__subject{
   background-color:coral;
+  color: white;
   font-size: 12vh;
   font-weight: 700;
   font-variant: small-caps;
@@ -170,6 +169,7 @@
 /* Border color screensaver layout when reserved */
 .screensaver__container--reserved {
   border-color: rgba(255, 255, 255, 0.5);
+  display: none;
   
 }
 
