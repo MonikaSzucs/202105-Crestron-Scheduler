@@ -17,13 +17,13 @@
 /* Color for available label */
 .color__main-color-3 {
   color: #3cf799;
-
+  display: none;
 }
 
 /* Color for reserved label */
 .color__main-color-2 {
   color: #ff2c55;
-
+  display: none;
 }
 
 /* Reserved details section */
@@ -46,9 +46,23 @@
   background-color: green;
 }
 
+.screensaver__container__content__status{
+  background-color: yellow;
+}
+
+.screensaver__container__content__status--reserved{
+  background-color: blue;
+}
+
 .screensaver__container__status--reserved{
   background-color:chocolate
 }
+
+.screensaver__container__status{
+  background-color:red;
+}
+
+
 
 .screensaver__container__reserved__content--reserved{
  background-color:pink;
@@ -67,9 +81,12 @@
 
 /* Available and Reserved Background Images */
 .screensaver__container--available{
+  /*
   background-position: center center;
   background-repeat: no-repeat;
   background-image: url("../images/reportex-background.png") !important;
+  */
+  background-color: black;
 }
 
 .screensaver__container--reserved{
@@ -134,7 +151,7 @@
 /* Border color screensaver layout when available */
 .screensaver__container--available {
   border-color: rgba(255, 255, 255, 0.5);
-  
+  display:none;
 }
 
 
