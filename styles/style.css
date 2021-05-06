@@ -48,19 +48,27 @@
 
 .screensaver__container__reserved__label2{
   background-color:cyan;
+  display:none;
 }
+
+
+
+
 
 .screensaver__container__reserved__content .color__main-color-2{
   background-color: darkgoldenrod;
 }
 
 .screensaver__container__reserved__date{
-  background-color: darkseagreen;
+  background-color: yellow !important;
 }
 
 .screensaver__container__reserved__content .screensaver__container__reserved__content--second .color__theme-color-2{
   background-color: firebrick;
 }
+
+
+
 
 
 
