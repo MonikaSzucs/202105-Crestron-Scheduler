@@ -62,10 +62,17 @@
 
 .screensaver__container__reserved__date{
   background-color: yellow !important;
+  display:none;
 }
 
 .screensaver__container__reserved__content .screensaver__container__reserved__content--second .color__theme-color-2{
   background-color: firebrick;
+
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 
