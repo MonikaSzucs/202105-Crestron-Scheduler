@@ -42,25 +42,14 @@
   align-content: center;
 }
 
-.screensaver__container__content{
-  background-color: green;
+.screensaver__container__reserved__subject{
+  background-color:coral;
 }
 
-.screensaver__container__content__status{
-  background-color: yellow;
+.screensaver__container__reserved__date{
+  background-color:cyan;
 }
 
-.screensaver__container__content__status--reserved{
-  background-color: blue;
-}
-
-.screensaver__container__status--reserved{
-  background-color:chocolate
-}
-
-.screensaver__container__status{
-  background-color:red;
-}
 
 
 
@@ -284,7 +273,6 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   padding: 1.1666666667vh 2.1666666667vh;
-  background-color: grey;
   display: none;
 }
 
@@ -324,7 +312,6 @@
   font-size: 4vh;
   font-weight: 400;
   margin-top: 3vh;
-  color:cyan;
   display: none;
 }
 
@@ -336,7 +323,6 @@
   font-size: 4vh;
   font-weight: 400;
   margin-top: 2vh;
-  color: green;
   display: none;
 }
 
@@ -352,6 +338,8 @@
   height: 100%;
   background-color: grey;
 }
+
+
 
 .room__container__status--available{
   background-color:cornflowerblue;
