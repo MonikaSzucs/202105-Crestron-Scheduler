@@ -57,6 +57,7 @@
 
 .screensaver__container__reserved__content .color__main-color-2{
   background-color: darkgoldenrod;
+  display: none;
 }
 
 .screensaver__container__reserved__date{
