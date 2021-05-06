@@ -35,7 +35,7 @@
 
 /* Aaa vs Bbbb on Screen Saver Mode *****************************************************/ 
 .screensaver__container__reserved__subject{
-  background-color:coral;
+  background-color:rgb(255, 127, 80, 0);
   color: white;
   font-size: 12vh;
   font-weight: 700;
