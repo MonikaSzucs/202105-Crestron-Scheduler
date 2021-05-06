@@ -234,8 +234,7 @@
 }
 
 .room__container--available {
-  display: none;
-  background-color:black;
+  background-color:black !important;
 }
 
 /* Color for 'available label' and 'countdown number' if available */
