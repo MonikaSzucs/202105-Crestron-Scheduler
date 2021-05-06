@@ -35,6 +35,7 @@
   
 }
 
+/* Aaa vs Bbbb on Screen Saver Mode */
 .screensaver__container__reserved__subject{
   background-color:coral;
   font-size: 12vh;
@@ -43,10 +44,19 @@
   font-family: Calibri;
   font-style: normal;
 
-  position: absolute;
-  display: flex;
-  flex-wrap: wrap;
-  align-content: center;
+  position: fixed;
+  margin:0;
+  padding:0;
+
+  top:0;
+  left:0;
+
+  width: 100%;
+  height: 100%;
+}
+
+.screensaver__container__all__cont{
+  background-color: blue;
 }
 
 .screensaver__container__reserved__label2{
