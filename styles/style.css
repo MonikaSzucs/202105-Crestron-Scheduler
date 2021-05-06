@@ -51,7 +51,9 @@
   display:none;
 }
 
-
+.screensaver__container__reserved .screensaver__container__reserved__content .color__main-color-2{
+  display: block;
+}
 
 
 
