@@ -47,7 +47,7 @@
   margin:0;
   padding:0;
 
-  margin-left: 10vh;
+  margin-left: 7.5vh;
   top:0;
   left:0;
 
@@ -168,12 +168,12 @@
   display: none;
 }
 
-/* Border color screensaver layout when reserved */
+/* Border color screensaver layout when reserved ********************/
 .screensaver__container--reserved {
   border-color: rgba(255, 255, 255, 0);
   align-items: center;
   text-align: center;
-
+  padding-top: 10vw;
 }
 
 /* Border color screensaver layout when available */
