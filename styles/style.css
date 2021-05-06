@@ -362,6 +362,14 @@
   
 }
 
+.room--available{
+  background-color: black;
+}
+
+.room{
+  background-color: red;
+}
+
 .room__container__room-details{
   background-color: pink;
 }
