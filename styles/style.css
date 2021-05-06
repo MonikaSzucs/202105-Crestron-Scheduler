@@ -33,7 +33,7 @@
   
 }
 
-/* Aaa vs Bbbb on Screen Saver Mode */
+/* Aaa vs Bbbb on Screen Saver Mode *****************************************************/ 
 .screensaver__container__reserved__subject{
   background-color:coral;
   color: white;
@@ -43,7 +43,7 @@
   font-family: Calibri;
   font-style: normal;
 
-  position: fixed;
+  position: absolute;
   margin:0;
   padding:0;
 
@@ -52,6 +52,7 @@
 
   width: 100%;
   height: 100%;
+
 }
 
 .screensaver__container__all__cont{
@@ -171,6 +172,16 @@
   border-color: rgba(255, 255, 255, 0);
   align-items: center;
   text-align: center;
+
+  position: absolute;
+  margin:0;
+  padding:0;
+
+  top:0;
+  left:0;
+
+  width: 100%;
+  height: 100%;
 }
 
 /* Border color screensaver layout when available */
