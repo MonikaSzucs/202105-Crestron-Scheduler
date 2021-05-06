@@ -46,16 +46,23 @@
   background-color:coral;
 }
 
-.screensaver__container__reserved__date{
+.screensaver__container__reserved__label2{
   background-color:cyan;
 }
 
-
-
-
-.screensaver__container__reserved__content--reserved{
- background-color:pink;
+.screensaver__container__reserved__content .color__main-color-2{
+  background-color: darkgoldenrod;
 }
+
+.screensaver__container__reserved__date{
+  background-color: darkseagreen;
+}
+
+.screensaver__container__reserved__content .screensaver__container__reserved__content--second .color__theme-color-2{
+  background-color: firebrick;
+}
+
+
 
 /* Available details section */
 .screensaver__container__available__content {
