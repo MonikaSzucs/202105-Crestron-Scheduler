@@ -28,25 +28,25 @@
 
 /* Reserved details section */
 .screensaver__container__reserved__content {
-  font-family: Calibri;
-  font-style: normal;
-  font-size: 12vh;
-  font-weight: 700;
-  line-height: 1.2;
-  font-variant: small-caps;
+  
+  font-size: 0px;
   color: purple;
   background-color:white;
-  position: absolute;
-  display: flex;
-  flex-wrap: wrap;
-  align-content: center;
+  
 }
 
 .screensaver__container__reserved__subject{
   background-color:coral;
   font-size: 12vh;
   font-weight: 700;
+  font-variant: small-caps;
+  font-family: Calibri;
+  font-style: normal;
 
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
 }
 
 .screensaver__container__reserved__label2{
