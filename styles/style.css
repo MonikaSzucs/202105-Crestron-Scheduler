@@ -169,7 +169,8 @@
 /* Border color screensaver layout when reserved */
 .screensaver__container--reserved {
   border-color: rgba(255, 255, 255, 0);
-  
+  align-items: center;
+  text-align: center;
 }
 
 /* Border color screensaver layout when available */
