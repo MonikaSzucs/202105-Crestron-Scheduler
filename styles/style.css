@@ -55,7 +55,10 @@
 
 
 
-div.screensaver__container__reserved__content .color__main-color-2{
+.screensaver__container__reserved__date,
+.screensaver__container__available__date-start,
+.screensaver__container__available__spacer,
+.screensaver__container__available__date-end {
   background-color: darkgoldenrod;
   display: none;
 }
@@ -68,11 +71,7 @@ div.screensaver__container__reserved__content .color__main-color-2{
 .screensaver__container__reserved__content .screensaver__container__reserved__content--second .color__theme-color-2{
   background-color: firebrick;
 
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+
 }
 
 
