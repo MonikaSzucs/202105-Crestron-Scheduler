@@ -55,7 +55,7 @@
 
 
 
-.screensaver__container__reserved__content .color__main-color-2{
+div.screensaver__container__reserved__content .color__main-color-2{
   background-color: darkgoldenrod;
   display: none;
 }
