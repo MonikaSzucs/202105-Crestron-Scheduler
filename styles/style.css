@@ -458,3 +458,8 @@
 .menu {
   display: none !important;
 }
+
+
+.screensaver__container__notify{
+  display: none;
+}
