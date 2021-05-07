@@ -417,8 +417,10 @@
 }
 
 .screensaver__container__freeAllDay,
-.screensaver__container__freeAllDay__label1
+.screensaver__container__freeAllDay__label1,
 .screensaver__container__freeAllDay__label2,
+.screensaver__container__freeAllDay__label3,
+.screensaver__container__freeAllDay__label4
 {
   font-size: 0px;
 }
