@@ -126,7 +126,7 @@
 .screensaver__container--reserved{
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url("../images/reportex-background.png") !important;
+  background-image: url("../images/reportex-background-overlay.png") !important;
 
 
   /*
@@ -200,6 +200,7 @@
   font-size: 0px;
 }
 
+/* Screen saver touch now to begin message  */
 .screensaver__container__notify{
   background-color: red;
   display: none;
@@ -399,7 +400,7 @@
 
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url("../images/reportex-background.png") !important;
+  background-image: url("../images/reportex-background-overlay.png") !important;
 }
 
 
