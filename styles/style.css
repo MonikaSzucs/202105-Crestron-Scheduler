@@ -55,7 +55,7 @@
   height: 100%;
 
   padding-top: 170px !important;
-
+  z-index: 99;
 }
 
 .screensaver__container__reserved__label2{
