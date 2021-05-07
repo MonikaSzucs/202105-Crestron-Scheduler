@@ -126,7 +126,7 @@
 .screensaver__container--reserved{
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url("../images/reportex-background-overlay.png") !important;
+  background-image: url("../images/reportex-background-overlay.png");
 
 
   /*
@@ -400,7 +400,7 @@
 
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url("../images/reportex-background-overlay.png") !important;
+  background-image: url("../images/reportex-background-overlay.png");
 }
 
 .room__container__status__title__label1,
