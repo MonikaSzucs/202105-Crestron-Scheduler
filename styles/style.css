@@ -202,14 +202,8 @@
 
 .screensaver__container__notify{
   background-color: red;
-}
-
-.screensaver__container__available-occupied__label1{
-  background-color: orange;
-}
-
-.screensaver__container__available-occupied{
-  background-color: yellow;
+  display: none;
+  font-size: 0px;
 }
 
 
