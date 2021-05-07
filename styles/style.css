@@ -403,13 +403,23 @@
   background-image: url("../images/reportex-background-overlay.png") !important;
 }
 
-/*  Hiding Available for the rest of the day */
-.room__container__status__available-all-day__title__label1{
+.room__container__status__title__label1,
+.room__container__status__title__label2, {
   font-size: 0px;
 }
 
+
+
 /*  Hiding Available for the rest of the day */
-.room__container__status__available-all-day__title__label2{
+.room__container__status__available-all-day__title__label1,
+.room__container__status__available-all-day__title__label2 {
+  font-size: 0px;
+}
+
+.screensaver__container__freeAllDay,
+.screensaver__container__freeAllDay__label1
+.screensaver__container__freeAllDay__label2,
+{
   font-size: 0px;
 }
 
