@@ -89,7 +89,17 @@
 }
 
 .screensaver__container__time-date{
-  display: none;
+  background-color: rgba(0, 0, 0, 1);
+  font-size: 0px;
+}
+
+.screensaver__container__available{
+  background-color: rgba(0, 0, 0, 1);
+  font-size: 0px;
+}
+
+.screensaver__container__freeAllDay{
+
 }
 
 /* Available details section */
@@ -178,6 +188,10 @@
 .screensaver__container--available {
   border-color: rgba(255, 255, 255, 0);
 
+}
+
+.screensaver__container__notify .color__theme-color-2{
+  display: none;
 }
 
 
