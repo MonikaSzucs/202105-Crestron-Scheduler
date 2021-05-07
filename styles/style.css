@@ -427,7 +427,21 @@
 }
 
 
+.room__container__status__title__label1{
+  background-color: red;
+}
 
+.room__container__status__title__label2 .color__theme-color-2{
+  background-color: orange;
+}
+
+.room__container__status__available-all-day__title__label1 .color__main-color-3{
+background-color: yellow;
+}
+
+room__container__status__available-all-day__title__label2 color__theme-color-2{
+  background-color: green;
+}
 
 
 
