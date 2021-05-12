@@ -110,7 +110,18 @@
   font-weight: 500;
   line-height: 1.2;
   text-align: center;
-  color: #FFC0CB;
+  color: red;
+}
+
+.screensaver__container__available__label2{
+  font-size: 0px;
+  color:rgba(0, 0, 0, 1)
+}
+}
+
+.screensaver__container__available__subject{
+  font-size: 0px;
+  color:rgba(0, 0, 0, 1)
 }
 
 /* Available and Reserved Background Images */
