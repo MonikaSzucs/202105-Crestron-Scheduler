@@ -143,6 +143,10 @@ Background before here
   border-color: greenyellow;
   border-style: solid;
   border-width: medium;
+
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-image: url("../images/reportex-background-overlay-with-text.png");
   /*
   background-position: center center;
   background-repeat: no-repeat;
@@ -157,7 +161,7 @@ Background before here
 
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url("../images/reportex-background-overlay-with-text.png");
+  background-image: url("../images/reportex-background-overlay.png");
   /*display: none; */
 }
 
