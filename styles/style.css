@@ -463,6 +463,17 @@ Background before here
   */
 }
 
+.room__container__status__countdown{
+  background-color:brown;
+}
+
+
+.room__container__action{
+  background-color:cornflowerblue;
+}
+
+
+
 .room__container__status__title__label1,
 .room__container__status__title__label2 {
   font-size: 0px;
