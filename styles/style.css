@@ -153,6 +153,27 @@
   */
 }
 
+.screensaver__image{
+  background-color:red;
+}
+
+.screensaver_flash{
+  background-color: orange;
+}
+
+.screensaver__container__reserved{
+  background-color: yellow;
+}
+
+.screensaver__container__available{
+  background-color: green;
+}
+
+.screensaver__container__freeAllDay{
+  background-color: blue;
+}
+
+
 /* Date screensaver */
 .screensaver__container__current-time__date {
   font-family: Crestron, sans-serif;
