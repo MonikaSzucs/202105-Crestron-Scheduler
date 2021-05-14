@@ -227,7 +227,7 @@
 
 
 .screensaver__container .container-fluid{
-  display: none;
+  background-color: purple;
   font-size: 0px;
 }
 
