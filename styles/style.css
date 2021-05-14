@@ -153,24 +153,46 @@
   */
 }
 
+.screensaver{
+  background-color: pink;
+  height: 100%;
+  width:100%;
+  /*display: none; */
+}
+
 .screensaver__image{
   background-color:red;
+  width: 100%;
+  height:100%;
+  /*display: none; */
 }
 
 .screensaver_flash{
   background-color: orange;
+  width: 100%;
+  height:100%;
+  /*display: none; */
 }
 
 .screensaver__container__reserved{
   background-color: yellow;
+  width: 100%;
+  height:100%;
+  /*display: none; */
 }
 
 .screensaver__container__available{
   background-color: green;
+  width: 100%;
+  height:100%;
+  /*display: none; */
 }
 
 .screensaver__container__freeAllDay{
   background-color: blue;
+  width: 100%;
+  height:100%;
+  /*display: none; */
 }
 
 
@@ -229,6 +251,9 @@
 .screensaver__container .container-fluid{
   background-color: purple;
   font-size: 0px;
+  width: 100%;
+  height:100%;
+  /*display: none; */
 }
 
 /* Screen saver touch now to begin message  */
