@@ -140,7 +140,9 @@ Background before here
 **
 ***/
 .screensaver__container--reserved{
-  
+  border-color: greenyellow;
+  border-style: solid;
+  border-width: medium;
   /*
   background-position: center center;
   background-repeat: no-repeat;
@@ -149,9 +151,13 @@ Background before here
 }
 
 .screensaver{
-  background-color: pink;
+
   height: 100%;
   width:100%;
+
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-image: url("../images/reportex-background-overlay-with-text.png");
   /*display: none; */
 }
 
@@ -170,9 +176,10 @@ Background before here
 }
 
 .screensaver__container__reserved{
-  background-color: yellow;
-  width: 100%;
-  height:100%;
+  
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-image: url("../images/reportex-background-overlay.png");
   /*display: none; */
 }
 
@@ -455,12 +462,9 @@ Background before here
   width: 100%;
   height: 100%;
 
-  
-  /*
   background-position: center center;
   background-repeat: no-repeat;
   background-image: url("../images/reportex-background-overlay.png");
-  */
 }
 
 .room__container__status__countdown{
