@@ -472,6 +472,9 @@ Background before here
   background-color:cornflowerblue;
 }
 
+.room__container__status--reserved{
+  background-color: goldenrod;
+}
 
 
 .room__container__status__title__label1,
