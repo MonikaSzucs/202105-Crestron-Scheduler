@@ -125,82 +125,33 @@
 
 /* Available and Reserved Background Images */
 .screensaver__container--available{
-  /* OLD
+  /*
   background-position: center center;
   background-repeat: no-repeat;
   background-image: url("../images/reportex-background.png") !important;
   */
-  background-color: turquoise;
+  background-color: black;
 }
 
-
-/***
-**
-Background before here
-**
-***/
 .screensaver__container--reserved{
-  border-color: greenyellow;
-  border-style: solid;
-  border-width: medium;
-
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-image: url("../images/reportex-background-overlay-with-text.png");
-  /*
   background-position: center center;
   background-repeat: no-repeat;
   background-image: url("../images/reportex-background-overlay.png");
+
+
+  /*
+  position: fixed;
+  margin:0;
+  padding:0;
+
+  top:0;
+  left:0;
+
+  width: 100%;
+  height: 100%;
+  background-color: grey;
   */
 }
-
-.screensaver{
-
-  height: 100%;
-  width:100%;
-
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-image: url("../images/reportex-background-overlay.png");
-  /*display: none; */
-}
-
-.screensaver__image{
-  background-color:red;
-  width: 100%;
-  height:100%;
-  /*display: none; */
-}
-
-.screensaver_flash{
-  background-color: orange;
-  width: 100%;
-  height:100%;
-  /*display: none; */
-}
-
-.screensaver__container__reserved{
-  
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-image: url("../images/reportex-background-overlay.png");
-  /*display: none; */
-}
-
-.screensaver__container__available{
-  background-color: green;
-  width: 100%;
-  height:100%;
-  /*display: none; */
-}
-
-.screensaver__container__freeAllDay{
-  background-color: blue;
-  width: 100%;
-  height:100%;
-  /*display: none; */
-}
-
 
 /* Date screensaver */
 .screensaver__container__current-time__date {
@@ -255,11 +206,8 @@ Background before here
 
 
 .screensaver__container .container-fluid{
-  background-color: purple;
+  display: none;
   font-size: 0px;
-  width: 100%;
-  height:100%;
-  /*display: none; */
 }
 
 /* Screen saver touch now to begin message  */
@@ -282,7 +230,7 @@ Background before here
   line-height: 1.2;
   margin-top: -.25em;
   background-color: blue;
-  display: none;
+  
 }
 
 /* Current time and date */
@@ -450,11 +398,6 @@ Background before here
   display: none;
 }
 
-/***
-**
-Background before here
-**
-***/
 .room__container__status{
   position: fixed;
   margin:0;
@@ -470,20 +413,6 @@ Background before here
   background-repeat: no-repeat;
   background-image: url("../images/reportex-background-overlay.png");
 }
-
-.room__container__status__countdown{
-  background-color:brown;
-}
-
-
-.room__container__action{
-  background-color:cornflowerblue;
-}
-
-.room__container__status--reserved{
-  background-color: goldenrod;
-}
-
 
 .room__container__status__title__label1,
 .room__container__status__title__label2 {
